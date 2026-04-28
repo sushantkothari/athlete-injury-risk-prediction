@@ -1,0 +1,9 @@
+{
+  "seq_len": 30,
+  "input_dim": 121,
+  "d_model": 128,
+  "nhead": 4,
+  "tf_layers": 2,
+  "gru_hidden": 64,
+  "dropout": 0.2
+}
