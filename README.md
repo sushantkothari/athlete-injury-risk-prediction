@@ -39,7 +39,6 @@
 - [End-to-End Pipeline](#end-to-end-pipeline)
 - [Machine Learning Methodology](#machine-learning-methodology)
 - [Training Configuration](#training-configuration)
-- [Results](#results)
 - [Evaluation Framework](#evaluation-framework)
 - [Repository Structure](#repository-structure)
 - [Quickstart](#quickstart)
@@ -409,20 +408,6 @@ during prediction.
 | Serialized Model | `best_model.pt` |
 | Threshold Artifact | `best_threshold.pkl` |
 | Feature Mapping | `feature_cols.pkl` |
-
----
-
-# Results
-
-| Metric | Score |
-|---|---|
-| Accuracy | TBD |
-| Precision | TBD |
-| Recall | TBD |
-| F1 Score | TBD |
-| ROC-AUC | TBD |
-
-> Replace `TBD` values with your actual evaluation metrics from the notebook.
 
 ---
 
